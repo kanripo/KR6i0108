@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:56.829407
+#+DATE: 2015-08-30 20:09:58.285559
 #+TITLE: 善思童子經
 #+PROPERTY: CBETA_ID T14n0479
 #+PROPERTY: ID KR6i0108
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 479
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0108_T_000-0605b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0108_T_002-0610b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《善思童子經》卷下¶
+《善思童子經》卷下¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -227,7 +226,7 @@
 　人世不可得。¶
 　凡世間所有，
 　一切處眾生；¶
-　彼菩薩為勝，
+　被菩薩為勝，
 　行此勝智者。¶
 　能求此諸法，
 　佛法不思議；¶
@@ -246,7 +245,7 @@
 
 爾時，世尊說此偈已，復更重告善思離車童¶
 子作是言：「復次，善思！我今宣說，若有菩薩摩¶
-訶薩等善著鎧者，能於如是甚深經典能善¶
+訶薩等善著鎧者，能於如是其深經典能善¶
 說者，最妙微密善說之時，聞已其人能不驚¶
 怖、不悔、不沒，如是菩薩摩訶薩等即得住於¶
 菩提道場；即得入於諸佛境界；即證無礙；即¶

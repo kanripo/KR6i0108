@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:56.797483
+#+DATE: 2015-08-30 20:09:58.250313
 #+TITLE: 善思童子經
 #+PROPERTY: CBETA_ID T14n0479
 #+PROPERTY: ID KR6i0108
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 479
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0108_T_000-0605b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0108_T_001-0605b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.479[Nos.477,478]¶
-
- 《善思童子經》卷上¶
+No. 479 [Nos. 477, 478]¶
+《善思童子經》卷上¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -419,7 +418,7 @@ No.479[Nos.477,478]¶
 　我今真實知，
 　是故無恐怖。¶
 　虛空遍大地，
-　畢竟不可得；¶
+　畢究不可得；¶
 　無真無生故，
 　真實無驚畏。¶
 　虛空無有高，
@@ -454,7 +453,7 @@ No.479[Nos.477,478]¶
 「　「有有故怖生，
 　彼有不可得；¶
 　能定此忍者，
-　彼即近菩提。
+　被即近菩提。
 <pb:KR6i0108_T_001-0608a>¶
 　取相言眾生，
 　而眾生無有；¶
