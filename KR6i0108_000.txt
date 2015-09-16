@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 善思童子經
+#+DATE: 2015-08-30 20:09:57.030887
+#+PROPERTY: JUAN 0
